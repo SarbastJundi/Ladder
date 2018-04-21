@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{44B5DF78-9FE3-4D9C-AAE6-81CA72BF3DA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ladder/Program.cs">
+    <Files>
+      <File FileName="Ladder/Program.cs" Line="33" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ladder PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

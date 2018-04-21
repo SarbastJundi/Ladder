@@ -1,0 +1,5 @@
+/Users/macbook/Projects/Ladder/Ladder/bin/Debug/Ladder.exe
+/Users/macbook/Projects/Ladder/Ladder/bin/Debug/Ladder.pdb
+/Users/macbook/Projects/Ladder/Ladder/obj/x86/Debug/Ladder.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Ladder/Ladder/obj/x86/Debug/Ladder.exe
+/Users/macbook/Projects/Ladder/Ladder/obj/x86/Debug/Ladder.pdb
